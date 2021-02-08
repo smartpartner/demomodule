@@ -1,0 +1,17 @@
+{
+    "name": "smartpartner/demomodule",
+    "description": "Demo module",
+    "version": "1.0.0",
+    "type": "oxideshop-module",
+    "homepage": "https://www.smartpartner.lt",
+    "extra": {
+        "oxideshop": {
+          "target-directory": "smp/smartFilter"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "smp\\demomodule": "../../../source/modules/smp/demomodule/"
+        }
+    }
+}
