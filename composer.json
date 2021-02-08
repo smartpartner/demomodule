@@ -8,7 +8,7 @@
     },
     "extra": {
         "oxideshop": {
-          "target-directory": "smp/smartFilter"
+          "target-directory": "smp/demomodule"
         }
     },
     "autoload": {
