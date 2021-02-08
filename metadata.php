@@ -7,5 +7,6 @@ $aModule = [
     'description' => 'Smart partner demo module',
     'version' => '1.0.0',
     'authos' => 'UAB Smart Partner',
-    'email' => 'info@smartpartner.lt'
+    'email' => 'info@smartpartner.lt',
+    
 ];
